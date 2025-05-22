@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>014 demoQa - scroll and select Book store aplication</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d8d5993-22f6-4c3d-a624-633a54db3b77</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c69b8aa-98d6-4800-abae-3bd0fa91cc91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Title\r\n'</defaultValue>
+      <description></description>
+      <id>9c69b8aa-98d6-4800-abae-3bd0fa91cc91</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

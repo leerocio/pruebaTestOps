@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>016 demoQa - click checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31c760b4-9ae2-488d-b447-ad1d79f2d783</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3cb220ec-bdf7-4477-8f23-c8d54cfd177b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Check Box'</defaultValue>
+      <description></description>
+      <id>3cb220ec-bdf7-4477-8f23-c8d54cfd177b</id>
+      <masked>false</masked>
+      <name>check</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>028 demoQa - validar text bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>784b4894-1b45-463b-84e2-f2735a32f965</testCaseGuid>
+</TestCaseEntity>

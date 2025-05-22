@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>test suite 5</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ac56e8bd-9bd8-44a9-b42c-12e343f6b863</testSuiteGuid>
+   <testCaseLink>
+      <guid>bded80f2-c730-40eb-b922-91b6b1d8d736</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50testCase/014 demoQa - scroll and select Book store aplication</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9c69b8aa-98d6-4800-abae-3bd0fa91cc91</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>45fe88d9-d521-44ba-9b9a-5b8ec86c2294</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50testCase/015 demoQa - click textBox</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bedd676c-abdb-427c-b73f-e5fa143f53a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9d0245ee-ba32-4807-8bf5-3712d1a76bf2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>037d36fa-8c11-4d44-9075-3a0a567232b4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14f9c976-67d7-478d-ae28-618dcc3ddd5e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4d634ee0-710b-4824-81af-59a3e7b5884b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55faf1d2-a42c-4698-a4a9-8a42ca4f22db</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/50testCase/016 demoQa - click checkbox</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3cb220ec-bdf7-4477-8f23-c8d54cfd177b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

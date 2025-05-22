@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 - Make Appointment - Healthcare Program</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3eb71566-6233-4bc2-95d8-17952a64151b</testCaseGuid>
+</TestCaseEntity>
