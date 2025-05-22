@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>041 demoQa - click broken link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d33e610c-78b3-478b-93ae-512f58a636e2</testCaseGuid>
+</TestCaseEntity>

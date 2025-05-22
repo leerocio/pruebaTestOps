@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>045 demoQa - dynamic properties</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41e8cb23-7d98-4032-b417-227fb9b993e2</testCaseGuid>
+</TestCaseEntity>

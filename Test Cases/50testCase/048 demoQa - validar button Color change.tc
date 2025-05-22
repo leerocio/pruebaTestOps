@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>048 demoQa - validar button Color change</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb1dec29-8b4c-4dac-a93c-aed2876acbb5</testCaseGuid>
+</TestCaseEntity>

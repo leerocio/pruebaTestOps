@@ -1,0 +1,35 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+
+import com.kms.katalon.core.annotation.Keyword
+import com.kms.katalon.core.checkpoint.Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.testcase.TestCase
+import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testobject.TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+
+import internal.GlobalVariable
+
+public class test11 {
+	@Keyword
+	def test11t() {
+		WebUI.scrollToPosition(0, 120)
+
+		WebUI.click(findTestObject('Object Repository/Page_DEMOQA/Page_DEMOQA/div_Alerts, Frame  Windows'))
+
+		WebUI.verifyElementText(findTestObject('Object Repository/Page_DEMOQA/Page_DEMOQA/div_Please select an item from left to star_1a4512'),
+				'Please select an item from left to start practice.')
+
+		WebUI.waitForElementClickable(findTestObject('Page_DEMOQA/Page_DEMOQA/a_Click Here for Valid Link'), 0)
+
+		WebUI.waitForElementClickable(findTestObject('Page_DEMOQA/Page_DEMOQA/a_Download'), 0)
+	}
+}

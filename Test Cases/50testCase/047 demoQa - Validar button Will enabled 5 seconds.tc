@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>047 demoQa - Validar button Will enabled 5 seconds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d914c28c-4322-4447-b340-a91c2db38433</testCaseGuid>
+</TestCaseEntity>

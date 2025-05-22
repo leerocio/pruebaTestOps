@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 - Make Appointment - Facility</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f85ca25-0e0d-4ac7-983f-6da00e51ea76</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>029 demoQa - validar text Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4986bda0-bb0e-409a-8e6b-66fdfa97fef1</testCaseGuid>
+</TestCaseEntity>

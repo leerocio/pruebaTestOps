@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>015 demoQa - click textBox</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12dbcac1-318e-4283-b400-305fe3751db0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bedd676c-abdb-427c-b73f-e5fa143f53a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d0245ee-ba32-4807-8bf5-3712d1a76bf2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>037d36fa-8c11-4d44-9075-3a0a567232b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14f9c976-67d7-478d-ae28-618dcc3ddd5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d634ee0-710b-4824-81af-59a3e7b5884b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Text Box'</defaultValue>
+      <description></description>
+      <id>bedd676c-abdb-427c-b73f-e5fa143f53a6</id>
+      <masked>false</masked>
+      <name>texBox</name>
+   </variable>
+   <variable>
+      <defaultValue>'Full Name\r\n'</defaultValue>
+      <description></description>
+      <id>9d0245ee-ba32-4807-8bf5-3712d1a76bf2</id>
+      <masked>false</masked>
+      <name>FullName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Email\r\n'</defaultValue>
+      <description></description>
+      <id>037d36fa-8c11-4d44-9075-3a0a567232b4</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Permanent Addres\r\n'</defaultValue>
+      <description></description>
+      <id>14f9c976-67d7-478d-ae28-618dcc3ddd5e</id>
+      <masked>false</masked>
+      <name>PermanentAddres</name>
+   </variable>
+   <variable>
+      <defaultValue>'Current Addres\r\n'</defaultValue>
+      <description></description>
+      <id>4d634ee0-710b-4824-81af-59a3e7b5884b</id>
+      <masked>false</masked>
+      <name>CurrentAddres</name>
+   </variable>
+</TestCaseEntity>

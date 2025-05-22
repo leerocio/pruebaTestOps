@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>020 demoQa - buttons right click</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce4f90e9-e53a-4100-aee2-83d5be0aaf4b</testCaseGuid>
+</TestCaseEntity>

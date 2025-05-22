@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_var gptadslots,googletaggoogletagcmdgo_31acd9</name>
+   <tag></tag>
+   <elementGuidId>e6fe9051-6206-4a3a-add5-f90263ce7f62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>body</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>032a5051-b334-4dde-ace8-23ab23081b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>/html[1]/body[1]</value>
+      <webElementGuid>2754915f-50f3-46ed-9da7-398cdc98f014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>783b12a8-70ac-495e-83af-43c1af2cdb54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>22392308-5309-4155-84cb-d3aea49eb26a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>/html[1]/body[1]' or . = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>/html[1]/body[1]')]</value>
+      <webElementGuid>3b647e23-fc76-4f3d-95ec-7dc41b4cb48b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>032 demoQa- validar text Following links will send an api call</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be2f8f15-a9eb-4142-9030-4a000e6f1b85</testCaseGuid>
+</TestCaseEntity>
