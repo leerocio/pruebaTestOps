@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>html_SafeFrame Container    (function()var aatypeof Object.definePropertiesfunctionObject.definePropertyfunction(a,b,c)if(aArray.prototypeaObject.prototype)return aabc.valuereturn a,bafunction(a)aobjecttypeof globalThisg</name>
+   <name>html_SafeFrame.rs</name>
    <tag></tag>
    <elementGuidId>272392bb-b1ca-43ee-82f7-36ffb5d99640</elementGuidId>
    <selectorCollection>
